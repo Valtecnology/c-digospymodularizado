@@ -1,3 +1,4 @@
+```
 # c-digospymodularizado
 from models import Participante, Disciplina, Evento, Encuentro
 from database import connect_db, create_tables
@@ -117,5 +118,5 @@ def validate_data(data):
     # Funciones de validación de datos
     pass
  
-        
+        ```
 
